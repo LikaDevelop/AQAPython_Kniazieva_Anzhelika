@@ -18,3 +18,16 @@ for l in riadok:
 
 print(new_riadok)
 
+#розбір домашки
+
+vowels = 'йуеїіаоєяию'
+
+def replace_vowels(word):
+    new = ''
+    for char in vowels:
+        new = word.replace(char, '#')
+        word = new
+    return new
+
+print(' '.join([replace_vowels(word) for word in word_list]))
+
