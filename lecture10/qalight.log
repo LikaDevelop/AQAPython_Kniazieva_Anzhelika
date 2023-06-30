@@ -1,0 +1,335 @@
+2022-28-08 09:55:28   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-28-08 09:55:28   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-28-08 10:17:25   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-28-08 10:17:33   INFO [pages.LoginPage] : Login page was opened
+2022-28-08 10:17:33   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 12:19:05   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 12:19:13   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 12:19:13   INFO [pages.LoginPage] : qaautowas entered into input
+2022-29-08 12:19:13   INFO [pages.LoginPage] : 123456qwertywas entered into input
+2022-29-08 12:19:14   INFO [pages.LoginPage] : Button Sign In was clicked
+2022-29-08 12:19:14   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 12:19:54   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 12:19:55   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 12:19:55   INFO [pages.LoginPage] : qaauto was entered into input
+2022-29-08 12:19:55   INFO [pages.LoginPage] : 123456qwerty was entered into input
+2022-29-08 12:19:56   INFO [pages.LoginPage] : Button Sign In was clicked
+2022-29-08 12:19:56   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 13:29:56   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 13:30:03   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 13:30:04   INFO [pages.LoginPage] : qaauto11 was entered into input
+2022-29-08 13:30:04   INFO [pages.LoginPage] : 123456qwerty111 was entered into input
+2022-29-08 13:30:04   INFO [pages.LoginPage] : Button Sign In was clicked
+2022-29-08 13:30:14   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 13:31:15   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 13:31:16   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 13:31:16   INFO [pages.LoginPage] : qaauto11 was entered into input
+2022-29-08 13:31:16   INFO [pages.LoginPage] : 123456qwerty111 was entered into input
+2022-29-08 13:31:16   INFO [pages.LoginPage] : Button Sign In was clicked
+2022-29-08 13:31:22   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 13:32:11   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 13:32:11   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 13:32:11   INFO [pages.LoginPage] : qaauto was entered into input
+2022-29-08 13:32:11   INFO [pages.LoginPage] : 123456qwerty was entered into input
+2022-29-08 13:32:13   INFO [pages.LoginPage] : Button Sign In was clicked
+2022-29-08 13:32:13   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 13:32:30   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 13:32:31   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 13:32:31   INFO [pages.LoginPage] : qaauto111 was entered into input
+2022-29-08 13:32:31   INFO [pages.LoginPage] : 123456qwerty111 was entered into input
+2022-29-08 13:32:31   INFO [pages.LoginPage] : Button Sign In was clicked
+2022-29-08 13:32:37   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 17:06:02   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 17:06:11   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 17:06:12   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-29-08 17:06:12   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-29-08 17:06:18  ERROR [pages.LoginPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//button[text() = 'Sign In' ]"}
+  (Session info: chrome=104.0.5112.101)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'MacBook-Air-Lika.local', ip: 'fe80:0:0:0:10ee:bfb3:9092:c990%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a37892bd6f8694bd459d72a64f23c7b7, findElement {using=xpath, value=.//button[text() = 'Sign In' ]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.101, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: /var/folders/dq/s6x7f93s6p5...}, goog:chromeOptions: {debuggerAddress: localhost:62425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:62425/devtoo..., se:cdpVersion: 104.0.5112.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a37892bd6f8694bd459d72a64f23c7b7
+2022-29-08 17:06:18   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-29-08 17:08:22   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-29-08 17:08:23   INFO [pages.LoginPage] : Login page was opened
+2022-29-08 17:08:23   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-29-08 17:08:23   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-29-08 17:08:24   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-29-08 17:08:24   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-05-09 18:00:50   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-05-09 18:00:51   INFO [pages.LoginPage] : Login page was opened
+2022-05-09 18:00:51   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-05-09 18:00:51   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Password'
+2022-05-09 18:00:51   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-05-09 18:00:57   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-05-09 18:02:04   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-05-09 18:02:05   INFO [pages.LoginPage] : Login page was opened
+2022-05-09 18:02:05   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-05-09 18:02:05   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-05-09 18:02:06   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-05-09 18:02:07   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-05-09 18:02:07   INFO [pages.CreatePostPage] : Element is displayed
+2022-05-09 18:02:07   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-05-09 18:02:07   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 18:41:04   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 18:41:05   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 18:41:05   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 18:41:05   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 18:41:07   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 18:41:07   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 18:41:07   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 18:41:07   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 18:41:12  ERROR [pages.CreatePostPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='select']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'MacBook-Air-Lika.local', ip: 'fe80:0:0:0:10ee:bfb3:9092:c990%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [17aa26d8ad56670656bc6d03128f8d37, findElement {using=name, value=select}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/dq/s6x7f93s6p5...}, goog:chromeOptions: {debuggerAddress: localhost:64567}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:64567/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 17aa26d8ad56670656bc6d03128f8d37
+2022-08-09 18:41:12   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 18:42:55   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 18:42:56   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 18:42:56   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 18:42:56   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 18:42:57   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 18:42:58   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 18:42:58   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 18:42:58   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 18:43:03  ERROR [pages.CreatePostPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='select']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'MacBook-Air-Lika.local', ip: 'fe80:0:0:0:10ee:bfb3:9092:c990%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d35c356d2a8706cd250a28bc2aa1bcc, findElement {using=name, value=select}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: /var/folders/dq/s6x7f93s6p5...}, goog:chromeOptions: {debuggerAddress: localhost:65063}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:65063/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d35c356d2a8706cd250a28bc2aa1bcc
+2022-08-09 18:43:03   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 18:43:59   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 18:44:00   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 18:44:00   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 18:44:00   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 18:44:01   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 18:44:02   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 18:44:02   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 18:44:02   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 18:44:02   INFO [pages.CreatePostPage] : Was selected '[[ChromeDriver: chrome on MAC (a1554d7742dd8f0bc23cae3bbdf80d81)] -> xpath: .//*[text() = 'Приватне повідомлення']]' value for selector
+2022-08-09 18:44:02   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 18:45:21   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 18:45:22   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 18:45:22   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 18:45:22   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 18:45:23   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 18:45:23   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 18:45:24   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 18:45:24   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 18:45:24   INFO [pages.CreatePostPage] : Was selected
+2022-08-09 18:45:24   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 18:45:52   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 18:45:52   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 18:45:52   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 18:45:52   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 18:45:53   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 18:45:54   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 18:45:54   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 18:45:54   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 18:45:54   INFO [pages.CreatePostPage] : Was selected value
+2022-08-09 18:45:54   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 19:28:23   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 19:28:23   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 19:28:23   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 19:28:23   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 19:28:25   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 19:28:25   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 19:28:25   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 19:28:25   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 19:28:25   INFO [pages.CreatePostPage] : Was selected value
+2022-08-09 19:28:26   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-08-09 19:28:26   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-08-09 19:29:02   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-08-09 19:29:03   INFO [pages.LoginPage] : Login page was opened
+2022-08-09 19:29:03   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-08-09 19:29:03   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-08-09 19:29:05   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-08-09 19:29:05   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-08-09 19:29:05   INFO [pages.CreatePostPage] : Element is displayed
+2022-08-09 19:29:05   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-08-09 19:29:06   INFO [pages.CreatePostPage] : Was selected value
+2022-08-09 19:29:06   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-08-09 19:29:06   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-09-09 12:09:19   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-09-09 12:09:20   INFO [pages.LoginPage] : Login page was opened
+2022-09-09 12:09:20   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-09-09 12:09:20   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-09-09 12:09:21   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-09-09 12:09:21   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-09-09 12:09:21   INFO [pages.CreatePostPage] : Element is displayed
+2022-09-09 12:09:21   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-09-09 12:09:22   INFO [pages.CreatePostPage] : Was selected value
+2022-09-09 12:09:22   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-09-09 12:09:22   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-09-09 12:18:17   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-09-09 12:18:17   INFO [pages.LoginPage] : Login page was opened
+2022-09-09 12:18:17   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-09-09 12:18:18   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-09-09 12:18:19   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-09-09 12:18:19   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-09-09 12:18:19   INFO [pages.CreatePostPage] : Element is displayed
+2022-09-09 12:18:19   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-09-09 12:18:20   INFO [pages.CreatePostPage] : Was selected value
+2022-09-09 12:18:20   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-09-09 12:18:20   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-09-09 12:18:20   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-09-09 13:16:40   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-09-09 13:16:41   INFO [pages.LoginPage] : Login page was opened
+2022-09-09 13:16:41   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-09-09 13:16:41   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-09-09 13:16:42   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-09-09 13:16:42   INFO [pages.HomePage] : Element is displayed
+2022-09-09 13:16:43   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-09-09 13:16:43   INFO [pages.CreatePostPage] : Element is displayed
+2022-09-09 13:16:43   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-09-09 13:16:43   INFO [pages.CreatePostPage] : Was selected value
+2022-09-09 13:16:44   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-09-09 13:16:44   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-09-09 13:16:44   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-09-09 13:17:00   INFO [loginTest.LoginTestWithPageObject] : Browser was opened
+2022-09-09 13:17:00   INFO [pages.LoginPage] : Login page was opened
+2022-09-09 13:17:01   INFO [pages.LoginPage] : 'qaauto111'was inputted into 'Username'
+2022-09-09 13:17:01   INFO [pages.LoginPage] : '123456qwerty111'was inputted into 'Password'
+2022-09-09 13:17:01   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-09-09 13:17:06   INFO [pages.HomePage] : Element is Not displayed
+2022-09-09 13:17:06   INFO [pages.LoginPage] : Element is displayed
+2022-09-09 13:17:06   INFO [pages.LoginPage] : Element is displayed
+2022-09-09 13:17:06   INFO [loginTest.LoginTestWithPageObject] : Browser was closed
+2022-11-09 16:55:13   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-11-09 16:55:14   INFO [pages.LoginPage] : Login page was opened
+2022-11-09 16:55:14   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-11-09 16:55:14   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-11-09 16:55:15   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-11-09 16:55:15   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-11-09 16:55:15   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-11-09 16:55:15   INFO [pages.CreatePostPage] : Element is displayed
+2022-11-09 16:55:15   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-11-09 16:55:16   INFO [pages.CreatePostPage] : Was selected value
+2022-11-09 16:55:16   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-11-09 16:55:17   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-11-09 16:55:17   INFO [pages.PostPage] : Element is displayed
+2022-11-09 16:55:17   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-11-09 17:21:39   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-11-09 17:21:47   INFO [pages.LoginPage] : Login page was opened
+2022-11-09 17:21:47   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-11-09 17:21:47   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-11-09 17:21:49   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-11-09 17:21:49   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-11-09 17:21:49   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-11-09 17:21:49   INFO [pages.CreatePostPage] : Element is displayed
+2022-11-09 17:21:49   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-11-09 17:21:49   INFO [pages.CreatePostPage] : Was selected value
+2022-11-09 17:21:50   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-11-09 17:21:50   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-11-09 17:21:50   INFO [pages.PostPage] : Element is displayed
+2022-11-09 17:21:51   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-11-09 17:21:51   INFO [pages.MyProfilePage] : Element is displayed
+2022-11-09 17:21:51   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-11-09 19:23:55   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-11-09 19:23:56   INFO [pages.LoginPage] : Login page was opened
+2022-11-09 19:23:56   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-11-09 19:23:56   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-11-09 19:23:57   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-11-09 19:23:57   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-11-09 19:23:58   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-11-09 19:23:58   INFO [pages.CreatePostPage] : Element is displayed
+2022-11-09 19:23:58   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-11-09 19:23:58   INFO [pages.CreatePostPage] : Was selected value
+2022-11-09 19:23:58   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-11-09 19:23:59   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-11-09 19:23:59   INFO [pages.PostPage] : Element is displayed
+2022-11-09 19:24:00   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-11-09 19:24:00   INFO [pages.MyProfilePage] : Element is displayed
+2022-11-09 19:24:00   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-12-09 17:25:12   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-12-09 17:25:12   INFO [pages.LoginPage] : Login page was opened
+2022-12-09 17:25:13   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-12-09 17:25:13   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-12-09 17:25:14   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-12-09 17:25:14   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-12-09 17:25:14   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-12-09 17:25:14   INFO [pages.CreatePostPage] : Element is displayed
+2022-12-09 17:25:14   INFO [pages.CreatePostPage] : 'kniazieva-post'was inputted into 'Title'
+2022-12-09 17:25:15   INFO [pages.CreatePostPage] : Was selected value
+2022-12-09 17:25:15   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-12-09 17:25:16   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-12-09 17:25:16   INFO [pages.PostPage] : Element is displayed
+2022-12-09 17:25:17   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-12-09 17:25:17   INFO [pages.MyProfilePage] : Element is displayed
+2022-12-09 17:25:17   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-12-09 17:49:55   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-12-09 17:49:57   INFO [pages.LoginPage] : Login page was opened
+2022-12-09 17:49:57   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-12-09 17:49:57   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-12-09 17:49:58   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-12-09 17:49:58   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-12-09 17:49:58   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-12-09 17:49:58   INFO [pages.CreatePostPage] : Element is displayed
+2022-12-09 17:49:59   INFO [pages.CreatePostPage] : 'kniazieva-post1'was inputted into 'Title'
+2022-12-09 17:49:59   INFO [pages.CreatePostPage] : Was selected value
+2022-12-09 17:49:59   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-12-09 17:50:00   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-12-09 17:50:00   INFO [pages.PostPage] : Element is displayed
+2022-12-09 17:50:01   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-12-09 17:50:01   INFO [pages.MyProfilePage] : Element is displayed
+2022-12-09 17:50:01   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-12-09 17:50:14   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-12-09 17:50:15   INFO [pages.LoginPage] : Login page was opened
+2022-12-09 17:50:15   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-12-09 17:50:15   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-12-09 17:50:16   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-12-09 17:50:16   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-12-09 17:50:17   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-12-09 17:50:17   INFO [pages.CreatePostPage] : Element is displayed
+2022-12-09 17:50:17   INFO [pages.CreatePostPage] : 'kniazieva-post1'was inputted into 'Title'
+2022-12-09 17:50:17   INFO [pages.CreatePostPage] : Was selected value
+2022-12-09 17:50:17   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-12-09 17:50:18   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-12-09 17:50:18   INFO [pages.PostPage] : Element is displayed
+2022-12-09 17:50:19   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-12-09 17:50:19   INFO [pages.MyProfilePage] : Element is displayed
+2022-12-09 17:50:19   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-12-09 18:08:29   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-12-09 18:08:31   INFO [pages.LoginPage] : Login page was opened
+2022-12-09 18:08:31   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-12-09 18:08:31   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-12-09 18:08:32   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-12-09 18:08:32   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-12-09 18:08:32   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-12-09 18:08:32   INFO [pages.CreatePostPage] : Element is displayed
+2022-12-09 18:08:32   INFO [pages.CreatePostPage] : 'TC1_kniazieva2022-09-12_18-08-30'was inputted into 'Title'
+2022-12-09 18:08:33   INFO [pages.CreatePostPage] : Was selected value
+2022-12-09 18:08:33   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-12-09 18:08:34   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-12-09 18:08:34   INFO [pages.PostPage] : Element is displayed
+2022-12-09 18:08:34   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-12-09 18:08:34   INFO [pages.MyProfilePage] : Element is displayed
+2022-12-09 18:08:34   INFO [postsTests.CreatePostTest] : Browser was closed
+2022-12-09 18:08:42   INFO [postsTests.CreatePostTest] : Browser was opened
+2022-12-09 18:08:42   INFO [pages.LoginPage] : Login page was opened
+2022-12-09 18:08:42   INFO [pages.LoginPage] : 'qaauto'was inputted into 'Username'
+2022-12-09 18:08:42   INFO [pages.LoginPage] : '123456qwerty'was inputted into 'Password'
+2022-12-09 18:08:43   INFO [pages.LoginPage] : 'Sign In' was clicked
+2022-12-09 18:08:43   INFO [pages.elements.HeaderElement] : Element is displayed
+2022-12-09 18:08:44   INFO [pages.elements.HeaderElement] : 'Create Post' was clicked
+2022-12-09 18:08:44   INFO [pages.CreatePostPage] : Element is displayed
+2022-12-09 18:08:44   INFO [pages.CreatePostPage] : 'TC1_kniazieva2022-09-12_18-08-42'was inputted into 'Title'
+2022-12-09 18:08:44   INFO [pages.CreatePostPage] : Was selected value
+2022-12-09 18:08:45   INFO [pages.CreatePostPage] : 'test text for body content'was inputted into 'Body Content'
+2022-12-09 18:08:45   INFO [pages.CreatePostPage] : 'Save New Post' was clicked
+2022-12-09 18:08:45   INFO [pages.PostPage] : Element is displayed
+2022-12-09 18:08:46   INFO [pages.elements.HeaderElement] : 'My profile' was clicked
+2022-12-09 18:08:46   INFO [pages.MyProfilePage] : Element is displayed
+2022-12-09 18:08:46   INFO [postsTests.CreatePostTest] : Browser was closed
